@@ -1,0 +1,22 @@
+﻿<mockup version="5.1" minAllowVersion="5.1" ID="143F79DA-B62B-4BE2-B32E-69033D409412" platform="MtMobile" defaultW="360" defaultH="640" measureW="360" measureH="640" screenOrientation="MoPortrait" mobileScreenScale="1.77777779102325">
+  <controls controlCount="3">
+    <control controlID="6814514D-AB22-44B0-89A1-E3DE488F667B" controlTypeID="Shape" x="0" y="19" w="360" h="46" zOrder="0">
+      <color>4278190080</color>
+      <borderColor>4278190080</borderColor>
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <textColor>4288243353</textColor>
+      <textSize>14</textSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="5489C8DA-3630-41F1-8A96-5075913FDF2A" controlTypeID="Image" x="88" y="24" w="185" h="37" zOrder="1">
+      <URL>DCE603C522B88E4842F5CBD495A8CF05.png</URL>
+    </control>
+    <control controlID="C6EB1761-D599-45B9-88E2-257798AACAAE" controlTypeID="StatusBar(Android)" x="0" y="0" w="360" h="20" zOrder="2"/>
+  </controls>
+  <param>
+    <backgroundColor>4294967295</backgroundColor>
+    <fontSize>0</fontSize>
+    <fontFamily/>
+    <guideLines/>
+  </param>
+</mockup>

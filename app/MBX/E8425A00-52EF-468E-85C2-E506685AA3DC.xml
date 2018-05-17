@@ -1,0 +1,54 @@
+﻿<mockup version="5.1" minAllowVersion="5.1" ID="E8425A00-52EF-468E-85C2-E506685AA3DC" platform="MtMobile" defaultW="360" defaultH="640" measureW="360" measureH="640" screenOrientation="MoPortrait" mobileScreenScale="1.77777779102325" clipArea="(0,0,0,0)">
+  <controls controlCount="7">
+    <control controlID="AC86CD42-7FAA-4DAE-B4B0-7B31B3C5B2FC" controlTypeID="Image" x="0" y="114" w="360" h="524" zOrder="0">
+      <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="C5D12F9C-1E9F-45FB-9575-CC078D4D0F5D" linkType="ltPageLink" isApplyIncludePage="False" title="Video+sent">
+          <area shape="0" alt="" ID="{63881277-512C-4EF3-B4C9-A644FBF26125}" coords="(0,0,360,524)"/>
+        </link>
+      </links>
+      <URL>A498C174394AE6452BE89221AC309CA0.png</URL>
+    </control>
+    <control controlID="D33C1A5E-3A71-4245-B4A4-EA24A73A7417" controlTypeID="Search" x="2" y="88" w="353" h="38" zOrder="1">
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>Search</text>
+      <textSize>14</textSize>
+      <textVAlign>VaTop</textVAlign>
+      <lineSpacing>0</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="8417F101-EA74-4769-BD4D-CA7A64EFDFB9" controlTypeID="Shape" x="0" y="19" w="360" h="54" zOrder="2">
+      <color>4278190080</color>
+      <borderColor>4278190080</borderColor>
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <textColor>4288243353</textColor>
+      <textSize>14</textSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="D400FA32-B974-4D7B-8ABD-EF23D32BF6D1" controlTypeID="StatusBar(Android)" x="0" y="0" w="360" h="20" zOrder="3"/>
+    <control controlID="337626E5-7DA6-4B8D-9044-257CBE19D0D8" controlTypeID="Image" x="318" y="32" w="35" h="35" zOrder="4">
+      <URL>6E9BA3FC17B329145A4BF8C8702F4CB0.png</URL>
+    </control>
+    <control controlID="6D150F40-602B-4591-A1AB-E4B70CB9AB6E" controlTypeID="Image" x="8" y="37" w="22" h="30" zOrder="5">
+      <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="64767196-9706-4F74-826B-7F809A0F216F" linkType="ltPageLink" isApplyIncludePage="False" title="Home2">
+          <area shape="0" alt="" ID="{545A9CF4-7827-488D-8D0F-1391E4A97211}" coords="(0,0,22,30)"/>
+        </link>
+      </links>
+      <URL>86130D3F31984E1D321781E3F78C4AF4.png</URL>
+    </control>
+    <control controlID="1439F8C2-3E96-457E-96E0-3D34A498FBD6" controlTypeID="Image" x="135" y="6" w="90" h="90" zOrder="6">
+      <links eventType="AtClick" animate="AmPushUp" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="134F6C73-E0F1-485A-A07D-F65EF4006266" linkType="ltPageLink" isApplyIncludePage="False" title="Send+Video+from+menu">
+          <area shape="0" alt="" ID="{C375EF82-5F32-470F-B0D4-6893A8A8FC49}" coords="(0,0,90,90)"/>
+        </link>
+      </links>
+      <URL>5BC48442797CC67E9809C4279EE19A58.png</URL>
+    </control>
+  </controls>
+  <param>
+    <backgroundColor>4294967295</backgroundColor>
+    <fontSize>0</fontSize>
+    <fontFamily/>
+    <guideLines/>
+  </param>
+</mockup>

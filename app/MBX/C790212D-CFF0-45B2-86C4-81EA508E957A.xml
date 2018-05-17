@@ -1,0 +1,49 @@
+﻿<mockup version="5.1" minAllowVersion="5.1" ID="AD724147-2C42-4502-997E-A43D39FF0CDA" platform="MtMobile" defaultW="360" defaultH="640" measureW="360" measureH="640" screenOrientation="MoPortrait" mobileScreenScale="1.77777779102325">
+  <controls controlCount="8">
+    <control controlID="0FEE5252-B1C1-4FE3-B825-68FAC5E48D39" controlTypeID="Shape" x="0" y="0" w="360" h="640" zOrder="0">
+      <borderColor>4278190080</borderColor>
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <textSize>14</textSize>
+      <selectedIndex>-1</selectedIndex>
+      <thickness>8</thickness>
+    </control>
+    <control controlID="091DADA7-D149-4939-9E95-1E0ED3C9E7D6" controlTypeID="StatusBar(Android)" x="0" y="0" w="360" h="20" zOrder="1"/>
+    <control controlID="8D92068D-6BC1-4725-9851-A98EE2D56992" controlTypeID="Image" x="10" y="162" w="336" h="98" zOrder="2">
+      <URL>9409A03755407571FF491129008E207B.png</URL>
+    </control>
+    <control controlID="F4DEF5FE-D3CB-4E12-AFE3-1E2542EDFB62" controlTypeID="Image" x="26" y="348" w="309" h="43" zOrder="3">
+      <URL>600E6F6FED540B9D66FD9DBAA483B1EA.png</URL>
+    </control>
+    <control controlID="5E0E9714-D8C7-4D57-94A1-7F64DEA73A30" controlTypeID="Image" x="26" y="408" w="309" h="43" zOrder="4">
+      <URL>600E6F6FED540B9D66FD9DBAA483B1EA.png</URL>
+    </control>
+    <control controlID="A801391E-B271-411C-8308-1E4961CE2D14" controlTypeID="Image" x="95" y="488" w="170" h="84" zOrder="5">
+      <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="64767196-9706-4F74-826B-7F809A0F216F" linkType="ltPageLink" isApplyIncludePage="False" title="Home2">
+          <area shape="0" alt="" ID="{9E2472D8-BBCA-4D7A-BC79-046777C33EF5}" coords="(0,0,170,84)"/>
+        </link>
+      </links>
+      <URL>0B45CEF8E13410B255054469E7085410.png</URL>
+    </control>
+    <control controlID="402C7096-55DD-4FBF-B57C-4096B6993F5F" controlTypeID="Label" x="43" y="360" w="90" h="19" zOrder="6">
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>email+address</text>
+      <textColor>4285229931</textColor>
+      <lineSpacing>0</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="0A26ED53-29B2-4FBD-9944-B5DEF3A55544" controlTypeID="Label" x="43" y="420" w="63" h="19" zOrder="7">
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>password</text>
+      <textColor>4285229931</textColor>
+      <lineSpacing>0</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+  </controls>
+  <param>
+    <backgroundColor>4294967295</backgroundColor>
+    <fontSize>0</fontSize>
+    <fontFamily/>
+    <guideLines/>
+  </param>
+</mockup>

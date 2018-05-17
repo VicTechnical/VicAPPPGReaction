@@ -1,0 +1,30 @@
+﻿<mockup version="5.1" minAllowVersion="5.1" ID="1E57272F-5284-4A5F-AAB3-6365998E75D9" platform="MtMobile" defaultW="360" defaultH="640" measureW="360" measureH="640" screenOrientation="MoPortrait" mobileScreenScale="1.77777779102325" clipArea="(0,0,0,0)">
+  <controls controlCount="2">
+    <control controlID="90D45E76-36B2-4C88-B987-5A520D9D813F" controlTypeID="Shape" x="0" y="0" w="360" h="640" zOrder="0">
+      <borderColor>4278190080</borderColor>
+      <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="2B0C33D2-AC1D-40C1-8EBA-CBAFC948FDE7" linkType="ltPageLink" isApplyIncludePage="False" title="Connection">
+          <area shape="0" alt="" ID="{EE4E0848-5E5B-4BAB-AD91-C52D56B26EF1}" coords="(0,0,360,640)"/>
+        </link>
+      </links>
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <textSize>14</textSize>
+      <selectedIndex>-1</selectedIndex>
+      <thickness>8</thickness>
+    </control>
+    <control controlID="497D00FE-D1CF-4EBA-A2A1-F6403E0D77B2" controlTypeID="Image" x="10" y="263" w="336" h="98" zOrder="1">
+      <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="100">
+        <link targetPageID="2B0C33D2-AC1D-40C1-8EBA-CBAFC948FDE7" linkType="ltPageLink" isApplyIncludePage="False" title="Connection">
+          <area shape="0" alt="" ID="{8D083E43-5A4C-425C-950A-9666A4CA9CFD}" coords="(0,0,336,98)"/>
+        </link>
+      </links>
+      <URL>9409A03755407571FF491129008E207B.png</URL>
+    </control>
+  </controls>
+  <param>
+    <backgroundColor>4294967295</backgroundColor>
+    <fontSize>0</fontSize>
+    <fontFamily/>
+    <guideLines/>
+  </param>
+</mockup>

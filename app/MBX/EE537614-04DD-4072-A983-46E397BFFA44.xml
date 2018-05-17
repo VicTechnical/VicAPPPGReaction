@@ -1,0 +1,194 @@
+﻿<mockup version="5.1" minAllowVersion="5.1" ID="6A76C17E-3E0A-4539-8086-122ADCED7002" platform="MtMobile" defaultW="360" defaultH="640" measureW="360" measureH="640" screenOrientation="MoPortrait" mobileScreenScale="1.77777779102325" clipArea="(0,0,0,0)">
+  <controls controlCount="22">
+    <control controlID="D98669EB-9556-4D5F-B8B9-505472CF0777" controlTypeID="Shape" x="0" y="19" w="360" h="46" zOrder="0">
+      <color>4278190080</color>
+      <borderColor>4278190080</borderColor>
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <textColor>4288243353</textColor>
+      <textSize>14</textSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="B38CCF9D-106E-4A03-9D89-1794531473E5" controlTypeID="Image" x="88" y="24" w="185" h="37" zOrder="1">
+      <URL>DCE603C522B88E4842F5CBD495A8CF05.png</URL>
+    </control>
+    <control controlID="D6E2C556-275E-4243-B035-02077B0BE1F6" controlTypeID="StatusBar(Android)" x="0" y="0" w="360" h="20" zOrder="2"/>
+    <control controlID="C2F02A5C-39F5-4344-AD72-21DC7C98D39B" controlTypeID="Label" x="31" y="71" w="82" h="43" zOrder="3">
+      <font family="Segoe+UI" displayName="Segoe+UI+Bold" postScript="" weightStyle="Bold" weight="700" isBold="True" isItalic="False"/>
+      <text>John</text>
+      <textSize>32</textSize>
+      <lineSpacing>0</lineSpacing>
+      <textStyles>[fsBold]</textStyles>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="8FA32A93-BFEF-4910-901C-A12632349EFC" controlTypeID="Image" x="-1" y="170" w="182" h="235" zOrder="4">
+      <URL>7B13439B177A75924B70C7C804CDD47E.png</URL>
+    </control>
+    <control controlID="F946A257-A75A-4814-8495-CAF9003AE4B1" controlTypeID="Image" x="181" y="356" w="179" h="247" zOrder="5">
+      <URL>202CE981722569D11D2C8DD4D641FEF5.png</URL>
+    </control>
+    <control controlID="43BE5722-1786-40C8-9867-5252DB6F2C15" controlTypeID="Circle" x="175" y="283" w="12" h="12" zOrder="6">
+      <color>4278190080</color>
+      <borderVisible>False</borderVisible>
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <textSize>14</textSize>
+      <selectedIndex>-1</selectedIndex>
+      <shapeBorderType>SbEllipse</shapeBorderType>
+    </control>
+    <control controlID="DC9E0159-1C54-4A04-A46F-4108ED2443CC" controlTypeID="Line" x="180" y="170" w="2" h="432" zOrder="7">
+      <color>4278190080</color>
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <textSize>14</textSize>
+      <lineSpacing>0</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+      <controlPoint>(1,216)</controlPoint>
+      <startPoint>(1,1)</startPoint>
+      <endPoint>(1,432)</endPoint>
+      <thickness>2</thickness>
+    </control>
+    <control controlID="4E4BAC13-3FB3-4F31-AA02-EA30538EA4CA" controlTypeID="Circle" x="175" y="471" w="12" h="12" zOrder="8">
+      <color>4278190080</color>
+      <borderVisible>False</borderVisible>
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <textSize>14</textSize>
+      <selectedIndex>-1</selectedIndex>
+      <shapeBorderType>SbEllipse</shapeBorderType>
+    </control>
+    <control controlID="AEC4F9D7-E0F3-4920-B42E-332C7FB1480C" controlTypeID="Label" x="190" y="280" w="36" h="19" zOrder="9">
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>09%3A51</text>
+      <lineSpacing>0</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="E4A1D2E9-3901-49DE-AC1D-04A15A3FC2A3" controlTypeID="Label" x="105" y="467" w="65" h="19" zOrder="10">
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>yesterday</text>
+      <lineSpacing>0</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="E76C85BC-CC6E-49EE-B789-E606D0EEB896" controlTypeID="Shape" x="0" y="118" w="360" h="53" zOrder="11">
+      <color>4291624908</color>
+      <borderVisible>False</borderVisible>
+      <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="55392D0D-7553-4485-8818-3C83E64D5B07" linkType="ltPageLink" isApplyIncludePage="False" title="Conversation+John">
+          <area shape="0" alt="" ID="{B8B298A7-76DE-4964-BE71-7A7D71AA8869}" coords="(0,0,360,53)"/>
+        </link>
+      </links>
+      <font family="Calibri" displayName="Calibri" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+      <text>SEND+A+VIDEO</text>
+      <textSize>20</textSize>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="5A090495-011A-4228-9207-368E311E370B" controlTypeID="Panel" x="0" y="170" w="360" h="129" zOrder="12">
+      <groupChildrenDescriptors>
+        <control controlID="3D316A52-AC2A-4E36-A18F-A74E550A375A" controlTypeID="Image" x="138" y="19" w="85" h="82" zOrder="0">
+          <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+            <link targetPageID="22E2160B-98FF-4327-AFC4-170CC52E10E9" linkType="ltPageLink" isApplyIncludePage="False" title="From+camera+roll">
+              <area shape="0" alt="" ID="{9A63D263-92B1-4A0A-9B78-45A59282C708}" coords="(0,0,85,82)"/>
+            </link>
+          </links>
+          <URL>82C82DE2BEC725CF07D17DC3AEAA91BF.png</URL>
+        </control>
+        <control controlID="157EF7EB-0E05-41CE-8FB7-511A6B3D3BBD" controlTypeID="Image" x="13" y="20" w="100" h="87" zOrder="1">
+          <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+            <link targetPageID="36AC7539-1664-465E-8131-FFA6A45C5A52" linkType="ltPageLink" isApplyIncludePage="False" title="From+camera">
+              <area shape="0" alt="" ID="{CD0A6708-4B2B-4B7E-8BC6-355459AC0A23}" coords="(0,0,100,87)"/>
+            </link>
+          </links>
+          <URL>55C03A245F259CE6F3456CF1555B5606.png</URL>
+        </control>
+        <control controlID="EC504C0E-B081-42E4-A014-A0377CAB41D5" controlTypeID="Label" x="23" y="95" w="83" h="19" zOrder="2">
+          <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+            <link targetPageID="36AC7539-1664-465E-8131-FFA6A45C5A52" linkType="ltPageLink" isApplyIncludePage="False" title="From+camera">
+              <area shape="0" alt="" ID="{4ED357DA-A545-4CE0-8831-A01DFD516474}" coords="(0,0,83,19)"/>
+            </link>
+          </links>
+          <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+          <text>from+camera</text>
+          <textColor>4285229931</textColor>
+          <lineSpacing>0</lineSpacing>
+          <selectedIndex>-1</selectedIndex>
+        </control>
+        <control controlID="FCCB60EE-4D88-4097-B147-7A922ADB5A8D" controlTypeID="Label" x="130" y="95" w="106" h="19" zOrder="3">
+          <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+            <link targetPageID="22E2160B-98FF-4327-AFC4-170CC52E10E9" linkType="ltPageLink" isApplyIncludePage="False" title="From+camera+roll">
+              <area shape="0" alt="" ID="{2B17FE8F-B735-4FFC-957D-6C19ABBC03D2}" coords="(0,0,106,19)"/>
+            </link>
+          </links>
+          <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+          <text>from+camera+roll</text>
+          <textColor>4285229931</textColor>
+          <textAlign>HaCenter</textAlign>
+          <lineSpacing>0</lineSpacing>
+          <selectedIndex>-1</selectedIndex>
+        </control>
+        <control controlID="51E48A50-5789-4F48-9A48-C262EAA3DBCF" controlTypeID="Label" x="260" y="94" w="67" h="19" zOrder="4">
+          <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+            <link targetPageID="852B3FA4-25AC-470B-AB30-F8AC250A2DF6" linkType="ltPageLink" isApplyIncludePage="False" title="Paste+URL+John">
+              <area shape="0" alt="" ID="{A0EF9481-7494-43BC-A095-9F9E209DA057}" coords="(0,0,67,19)"/>
+            </link>
+          </links>
+          <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+          <text>paste+URL</text>
+          <textColor>4285229931</textColor>
+          <textAlign>HaCenter</textAlign>
+          <lineSpacing>0</lineSpacing>
+          <selectedIndex>-1</selectedIndex>
+        </control>
+        <control controlID="ADC28D37-98B2-4FF6-96AD-513F1E39A6AC" controlTypeID="Icon" x="266" y="32" w="55" h="55" zOrder="5">
+          <color>4287927444</color>
+          <links eventType="AtClick" animate="AmSlideUp" animateAutoDelay="0" animateDuration="500">
+            <link targetPageID="852B3FA4-25AC-470B-AB30-F8AC250A2DF6" linkType="ltPageLink" isApplyIncludePage="False" title="Paste+URL+John">
+              <area shape="0" alt="" ID="{D94F934E-DC1E-4EB5-BFC7-0C6D5699D9D5}" coords="(0,0,55,55)"/>
+            </link>
+          </links>
+          <icon>
+            <ID/>
+            <iconFontName>jdIcoMoonFree</iconFontName>
+            <iconCode>59851</iconCode>
+          </icon>
+          <URL>4A8711B83B564DCE10D25BB6C1E3064D.svg</URL>
+        </control>
+        <control controlID="FF46646C-53BD-47DD-A337-30C6FD89F3B1" controlTypeID="Border" x="0" y="0" w="360" h="129" zOrder="6">
+          <alias>borderLayer</alias>
+        </control>
+      </groupChildrenDescriptors>
+      <thinkness>1</thinkness>
+    </control>
+    <control controlID="FBDE366F-50A3-4912-915F-55AB44F24D74" controlTypeID="Shape" x="0" y="299" w="360" h="340" zOrder="13">
+      <color>4285229931</color>
+      <borderVisible>False</borderVisible>
+      <opacity>0.699999988079071</opacity>
+      <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="55392D0D-7553-4485-8818-3C83E64D5B07" linkType="ltPageLink" isApplyIncludePage="False" title="Conversation+John">
+          <area shape="0" alt="" ID="{D7831DB0-18BE-434D-B13F-565EA6BEA5E0}" coords="(0,0,360,340)"/>
+        </link>
+      </links>
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <textSize>14</textSize>
+      <selectedIndex>-1</selectedIndex>
+      <dashMode>SdDot</dashMode>
+    </control>
+    <control controlID="52BCA26E-212B-40DE-BB77-C65583618B90" controlTypeID="Icon" x="2" y="82" w="23" h="23" zOrder="14">
+      <color>4278190080</color>
+      <links eventType="AtClick" animate="AmSlideRight" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="00A07A42-CB50-4BE0-BEAB-31F0816D2143" linkType="ltPageLink" isApplyIncludePage="False" title="Home">
+          <area shape="0" alt="" ID="{D2984699-9BFA-4DAC-A610-4DE7242E6373}" coords="(0,0,23,23)"/>
+        </link>
+      </links>
+      <icon>
+        <ID/>
+        <iconFontName>jdIonicons</iconFontName>
+        <iconCode>61732</iconCode>
+      </icon>
+      <URL>CFAC147583A1C602F91FE6F2C39DA488.svg</URL>
+    </control>
+  </controls>
+  <param>
+    <backgroundColor>4294967295</backgroundColor>
+    <fontSize>0</fontSize>
+    <fontFamily/>
+    <guideLines/>
+  </param>
+</mockup>

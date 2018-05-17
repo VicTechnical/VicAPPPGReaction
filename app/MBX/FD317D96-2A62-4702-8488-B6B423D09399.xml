@@ -1,0 +1,37 @@
+﻿<mockup version="5.1" minAllowVersion="5.1" ID="7ECA9597-7184-4E60-87FD-5A0F8BB28755" platform="MtMobile" defaultW="360" defaultH="640" measureW="360" measureH="640" screenOrientation="MoPortrait" mobileScreenScale="1.77777779102325">
+  <controls controlCount="5">
+    <control controlID="1A53A220-5A9D-4C44-B10B-F96469F733EB" controlTypeID="Shape" x="0" y="0" w="360" h="640" zOrder="0">
+      <borderColor>4278190080</borderColor>
+      <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="00A07A42-CB50-4BE0-BEAB-31F0816D2143" linkType="ltPageLink" isApplyIncludePage="False" title="Home">
+          <area shape="0" alt="" ID="{7DA5FBB6-C3EC-4D07-9BA3-1A4160AAB66A}" coords="(0,0,360,640)"/>
+        </link>
+      </links>
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <textSize>14</textSize>
+      <selectedIndex>-1</selectedIndex>
+      <thickness>8</thickness>
+    </control>
+    <control controlID="378EE180-AB17-4FA7-9A04-553A03336CC9" controlTypeID="Image" x="10" y="162" w="336" h="98" zOrder="1">
+      <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="100">
+        <link targetPageID="00A07A42-CB50-4BE0-BEAB-31F0816D2143" linkType="ltPageLink" isApplyIncludePage="False" title="Home">
+          <area shape="0" alt="" ID="{8D083E43-5A4C-425C-950A-9666A4CA9CFD}" coords="(0,0,336,98)"/>
+        </link>
+      </links>
+      <URL>9409A03755407571FF491129008E207B.png</URL>
+    </control>
+    <control controlID="6456DB48-A2B2-41DB-BBDF-29A55B4725C4" controlTypeID="Image" x="95" y="368" w="170" h="84" zOrder="2">
+      <URL>0B45CEF8E13410B255054469E7085410.png</URL>
+    </control>
+    <control controlID="FD419BC0-7531-475A-9D5F-779254250B22" controlTypeID="Image" x="95" y="468" w="170" h="84" zOrder="3">
+      <URL>CB3973F7DD8DBA6B2ED83808B0EA767A.png</URL>
+    </control>
+    <control controlID="61264D32-5C1C-44CE-91A0-62AB27042553" controlTypeID="StatusBar(Android)" x="0" y="0" w="360" h="20" zOrder="4"/>
+  </controls>
+  <param>
+    <backgroundColor>4294967295</backgroundColor>
+    <fontSize>0</fontSize>
+    <fontFamily/>
+    <guideLines/>
+  </param>
+</mockup>

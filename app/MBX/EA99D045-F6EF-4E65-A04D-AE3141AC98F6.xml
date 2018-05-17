@@ -1,0 +1,44 @@
+﻿<mockup version="5.1" minAllowVersion="5.1" ID="C7221E12-D577-43E7-9B9C-EFE2D9F5E782" platform="MtMobile" defaultW="360" defaultH="640" measureW="360" measureH="640" screenOrientation="MoPortrait" mobileScreenScale="1.77777779102325" clipArea="(0,0,0,0)">
+  <controls controlCount="6">
+    <control controlID="1B7423AE-A6B0-4D78-84BC-D2046FED4F45" controlTypeID="Image" x="1" y="20" w="358" h="625" zOrder="0">
+      <URL>99E9E30166F5434730820C0C16AE0AA9.png</URL>
+    </control>
+    <control controlID="600AC6B3-5DA4-4CD2-B142-BBFD00A32644" controlTypeID="Circle" x="131" y="523" w="98" h="97" zOrder="1">
+      <color>16777215</color>
+      <borderColor>4294967295</borderColor>
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <textSize>14</textSize>
+      <selectedIndex>-1</selectedIndex>
+      <shapeBorderType>SbEllipse</shapeBorderType>
+      <thickness>8</thickness>
+    </control>
+    <control controlID="04193A8E-7743-447C-93D6-C368D0CC0B96" controlTypeID="StatusBar(Android)" x="0" y="0" w="360" h="20" zOrder="2"/>
+    <control controlID="73E49912-3676-426F-BAC0-258FBE178605" controlTypeID="Image" x="10" y="30" w="41" h="43" zOrder="3">
+      <URL>4E63D211ED2202123ABEB6A38A2769D0.png</URL>
+    </control>
+    <control controlID="9B204EE8-79CD-4B0E-8F92-C293E1C25806" controlTypeID="Icon" x="280" y="547" w="50" h="50" zOrder="4">
+      <color>4294967295</color>
+      <icon>
+        <ID/>
+        <iconFontName>jdIonicons</iconFontName>
+        <iconCode>62622</iconCode>
+      </icon>
+      <URL>9AA2A013CD7A085B49412BAAC958DB34.svg</URL>
+    </control>
+    <control controlID="E2537494-5B8B-471C-ABAD-69B5C7D5FEF4" controlTypeID="Icon" x="161" y="553" w="38" h="38" zOrder="5">
+      <color>4294967295</color>
+      <icon>
+        <ID/>
+        <iconFontName>jdIonicons</iconFontName>
+        <iconCode>62669</iconCode>
+      </icon>
+      <URL>7D34168CB3374D39FEFCE9D0FCF04759.svg</URL>
+    </control>
+  </controls>
+  <param>
+    <backgroundColor>4294967295</backgroundColor>
+    <fontSize>0</fontSize>
+    <fontFamily/>
+    <guideLines/>
+  </param>
+</mockup>

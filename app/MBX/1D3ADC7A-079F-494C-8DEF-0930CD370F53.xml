@@ -1,0 +1,25 @@
+﻿<mockup version="5.1" minAllowVersion="5.1" ID="1D3ADC7A-079F-494C-8DEF-0930CD370F53" platform="MtMobile" defaultW="360" defaultH="640" measureW="360" measureH="640" screenOrientation="MoPortrait" mobileScreenScale="1.77777779102325" clipArea="(0,0,0,0)">
+  <controls controlCount="3">
+    <control controlID="8C50A9B3-DB9A-4499-BF89-6988ADFC0B39" controlTypeID="Shape" x="0" y="0" w="360" h="640" zOrder="0">
+      <color>4278190080</color>
+      <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="00A07A42-CB50-4BE0-BEAB-31F0816D2143" linkType="ltPageLink" isApplyIncludePage="False" title="Home">
+          <area shape="0" alt="" ID="{148B67F6-C596-44A6-BE4A-0EF6BEB4DB33}" coords="(0,0,360,640)"/>
+        </link>
+      </links>
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <textSize>14</textSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="968A21E2-0558-4618-827B-C7BAC46AC82F" controlTypeID="Image" x="0" y="230" w="360" h="180" zOrder="1">
+      <URL>5F71BF386C1B4ADA92B7A5AE3899484F.png</URL>
+    </control>
+    <control controlID="36247CFB-33EC-4A00-826C-CF86C9427A0B" controlTypeID="StatusBar(Android)" x="0" y="0" w="360" h="20" zOrder="2"/>
+  </controls>
+  <param>
+    <backgroundColor>4294967295</backgroundColor>
+    <fontSize>0</fontSize>
+    <fontFamily/>
+    <guideLines/>
+  </param>
+</mockup>
